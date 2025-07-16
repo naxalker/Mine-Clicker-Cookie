@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 16_Enderman
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: -1380762542902067189, guid: b28bfa085342e9249bf6b94230c1e943, type: 3}
+  <CostBase>k__BackingField: 25000000000
+  <IncomeBase>k__BackingField: 100000000
+  <RateGrowth>k__BackingField: 1.05
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 802102145024
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 765d557b9fa5fad4a9b592c8c21ce3ed, type: 3}
+  - {fileID: 8300000, guid: 918a10f970c66f148a2abb974dcadaba, type: 3}
+  - {fileID: 8300000, guid: b321781aa12cc2c40af396f76473da3c, type: 3}
+  - {fileID: 8300000, guid: 2d38510445ddd3b4cac2da7e948f3704, type: 3}
+  references:
+    version: 2
+    RefIds: []

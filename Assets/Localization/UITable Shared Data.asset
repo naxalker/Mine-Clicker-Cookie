@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UITable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UITable
+  m_TableCollectionNameGuidString: 7ea5248d5bcb78a4b8cde7c0f79b9a45
+  m_Entries:
+  - m_Id: 3014522007552
+    m_Key: cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616058933248
+    m_Key: income
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628651999232
+    m_Key: shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3802296184832
+    m_Key: availableUpgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4327137832960
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4484822691840
+    m_Key: reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4770660315136
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4806748106752
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052337188864
+    m_Key: adStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5261712650240
+    m_Key: reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5508903956480
+    m_Key: gameover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5575702441984
+    m_Key: thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10947569872896
+    m_Key: upgradeIncome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24878547955712
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3682809834687693012
+  references:
+    version: 2
+    RefIds:
+    - rid: 3682809834687693012
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1751377096557

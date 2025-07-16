@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 10_Golem
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: -938088345250586888, guid: 2c1a95480d74a854191a236a17a10356, type: 3}
+  <CostBase>k__BackingField: 6000000
+  <IncomeBase>k__BackingField: 30000
+  <RateGrowth>k__BackingField: 1.07
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 508979015680
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 02de9fde6823613489bfa3d75806c578, type: 3}
+  - {fileID: 8300000, guid: 1d3cf0c5163a14e44840b72a3fab5db1, type: 3}
+  - {fileID: 8300000, guid: e05974e04670c534fac43a8e7d0eefd6, type: 3}
+  - {fileID: 8300000, guid: 08ca171a38aa2a042a965d22d83657a3, type: 3}
+  references:
+    version: 2
+    RefIds: []

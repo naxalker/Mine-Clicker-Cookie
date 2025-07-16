@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 7_Squid
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: -6342847773238981180, guid: b603819fc315ec44db2a63c4c6aa4f63, type: 3}
+  <CostBase>k__BackingField: 100000
+  <IncomeBase>k__BackingField: 500
+  <RateGrowth>k__BackingField: 1.1
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 353022210048
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: fac6d7bceab9e2d49968b8d6868aefff, type: 3}
+  - {fileID: 8300000, guid: 917da83c2ba7e244ba1806024f1f93b7, type: 3}
+  - {fileID: 8300000, guid: fce71ec6631e40249a19f9c3fc2a4f26, type: 3}
+  - {fileID: 8300000, guid: 4cdca317c8a9c394cb9825fac3428d16, type: 3}
+  references:
+    version: 2
+    RefIds: []

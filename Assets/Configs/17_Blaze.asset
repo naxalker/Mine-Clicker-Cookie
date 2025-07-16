@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 17_Blaze
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 2959993990562780335, guid: 4ec124973dac5e84486ed69dc540108b, type: 3}
+  <CostBase>k__BackingField: 100000000000
+  <IncomeBase>k__BackingField: 400000000
+  <RateGrowth>k__BackingField: 1.04
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 881210912768
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 73111110f25d279468c37190833f28ed, type: 3}
+  references:
+    version: 2
+    RefIds: []

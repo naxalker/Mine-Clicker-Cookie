@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 6_Villager
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 6608164592940088445, guid: 2619c5ae95129f8498440fc65e0a9574, type: 3}
+  <CostBase>k__BackingField: 20000
+  <IncomeBase>k__BackingField: 120
+  <RateGrowth>k__BackingField: 1.11
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 267303219200
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 4d19b2645a08cc94fae6ade0c2139c4d, type: 3}
+  - {fileID: 8300000, guid: afd23253830b2d143a47097569ae6f67, type: 3}
+  - {fileID: 8300000, guid: 6bf83b76872931c4a89ba7adf06f99f1, type: 3}
+  references:
+    version: 2
+    RefIds: []

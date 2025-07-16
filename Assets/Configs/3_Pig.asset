@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 3_Pig
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 2063935944801910843, guid: c60317d2ec5747644bfa33be304fcae7, type: 3}
+  <CostBase>k__BackingField: 200
+  <IncomeBase>k__BackingField: 2
+  <RateGrowth>k__BackingField: 1.14
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 164802818048
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 05b17650c5f7074439c15ece4bac30e4, type: 3}
+  - {fileID: 8300000, guid: 120af92a5edd4fd42ba22f910bcca1fa, type: 3}
+  - {fileID: 8300000, guid: 263801dd0d677694a8aa54ef09112a10, type: 3}
+  references:
+    version: 2
+    RefIds: []

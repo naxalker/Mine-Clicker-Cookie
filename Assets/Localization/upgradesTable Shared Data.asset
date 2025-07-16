@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: upgradesTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: upgradesTable
+  m_TableCollectionNameGuidString: 751ffe401b4066b47bacb81b6f90f013
+  m_Entries:
+  - m_Id: 42140397568
+    m_Key: chicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113888161792
+    m_Key: sheep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 164802818048
+    m_Key: pig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204850032640
+    m_Key: cow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239310434304
+    m_Key: cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267303219200
+    m_Key: villager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353022210048
+    m_Key: squid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397460860928
+    m_Key: wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452787924992
+    m_Key: bee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508979015680
+    m_Key: golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 567867043840
+    m_Key: spider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 623970054144
+    m_Key: zombie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658015219712
+    m_Key: skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708657246208
+    m_Key: creeper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754991722496
+    m_Key: slime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 802102145024
+    m_Key: enderman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 881210912768
+    m_Key: blaze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 922331869184
+    m_Key: ghast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 967449997312
+    m_Key: wither
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1007467851776
+    m_Key: dragon
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3682809834687693014
+  references:
+    version: 2
+    RefIds:
+    - rid: 3682809834687693014
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1751377122802

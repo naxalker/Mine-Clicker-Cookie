@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UITable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7ea5248d5bcb78a4b8cde7c0f79b9a45, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3682809834687693025
+  m_TableData:
+  - m_Id: 2616058933248
+    m_Localized: '{0}/s'
+    m_Metadata:
+      m_Items:
+      - rid: 3682809834687693025
+  - m_Id: 3014522007552
+    m_Localized: Cookies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628651999232
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3802296184832
+    m_Localized: New upgrade available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4327137832960
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4484822691840
+    m_Localized: Are you sure you want to reset your progress?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4770660315136
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4806748106752
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052337188864
+    m_Localized: ADVERTISEMENT STARTS IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5261712650240
+    m_Localized: CONGRATULATIONS! YOU HAVE RECEIVED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5508903956480
+    m_Localized: 'Congratulations! You have unlocked all the upgrades!
+
+      
+
+      You
+      can continue playing by competing for the top spot on the leaderboard, or reset
+      your progress (via settings) and start fresh!
+
+      
+
+      We would also
+      greatly appreciate it if you leave us a review!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5575702441984
+    m_Localized: Thank you for playing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10947569872896
+    m_Localized: "{0} \xD7 {1}/s"
+    m_Metadata:
+      m_Items:
+      - rid: 3682809834687693025
+  - m_Id: 24878547955712
+    m_Localized: EN
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3682809834687693025
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2616058933248
+        - id: 10947569872896

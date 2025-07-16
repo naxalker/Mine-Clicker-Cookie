@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 13_Skeleton
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 6104811487847821490, guid: 8ff0d0c5d71b0fa429382748338496b9, type: 3}
+  <CostBase>k__BackingField: 400000000
+  <IncomeBase>k__BackingField: 2000000
+  <RateGrowth>k__BackingField: 1.06
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 658015219712
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 4502700d21bdb4b4abf95c0a736f1c04, type: 3}
+  - {fileID: 8300000, guid: 546e551c1f5ac354ba3cb8ce80cdce1e, type: 3}
+  - {fileID: 8300000, guid: 99daa282df0d4d44b8fb9d7abedb71f3, type: 3}
+  references:
+    version: 2
+    RefIds: []

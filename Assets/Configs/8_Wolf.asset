@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 8_Wolf
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 3339476365302840818, guid: 017201b6399f8cb43b4d82efeaf7e40b, type: 3}
+  <CostBase>k__BackingField: 400000
+  <IncomeBase>k__BackingField: 2000
+  <RateGrowth>k__BackingField: 1.09
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 397460860928
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: 185bf98099878f8468ca272a53d470ef, type: 3}
+  - {fileID: 8300000, guid: d6230e8c24d8654459280425e9c09ff3, type: 3}
+  - {fileID: 8300000, guid: 48cf1fa26673a6f429ed104cd1a095b5, type: 3}
+  references:
+    version: 2
+    RefIds: []

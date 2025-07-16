@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6b8f2d6949b5e49a7086de1c2fe900, type: 3}
+  m_Name: 11_Spider
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 7796277697222011291, guid: 47ba7c2082bc204439d509a1e470b3b7, type: 3}
+  <CostBase>k__BackingField: 25000000
+  <IncomeBase>k__BackingField: 120000
+  <RateGrowth>k__BackingField: 1.07
+  <UpgradeName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:751ffe401b4066b47bacb81b6f90f013
+    m_TableEntryReference:
+      m_KeyId: 567867043840
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <UpgradeAudioClips>k__BackingField:
+  - {fileID: 8300000, guid: cf76d5e6fb5712b40a55d5b47e5859d7, type: 3}
+  - {fileID: 8300000, guid: c10156c1a78af9c4a83f6b296183ba3a, type: 3}
+  - {fileID: 8300000, guid: baa9578d60e15a94d9a594e2966fb6fd, type: 3}
+  - {fileID: 8300000, guid: e494d6972a2c07e4d9ec0e56df438ee4, type: 3}
+  references:
+    version: 2
+    RefIds: []
